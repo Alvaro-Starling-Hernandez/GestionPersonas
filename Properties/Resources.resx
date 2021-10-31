@@ -118,16 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="icons8_eliminar_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-eliminar-16.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="add_1_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\add-1-icon.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="icons8_google_web_search_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-google-web-search-24.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="delete_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\delete-icon.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="icons8_guardar_48" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-guardar-48.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Delete_icon_minus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Delete-icon-minus.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="icons8_nuevo_48" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-nuevo-48.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="File_new_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\File-new-icon.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="floppy_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\floppy-icon.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="search_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search-icon.png;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

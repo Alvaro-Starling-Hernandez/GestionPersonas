@@ -63,9 +63,9 @@ namespace GestionPersonas.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] icons8_eliminar_16 {
+        internal static byte[] add_1_icon {
             get {
-                object obj = ResourceManager.GetObject("icons8_eliminar_16", resourceCulture);
+                object obj = ResourceManager.GetObject("add_1_icon", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace GestionPersonas.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] icons8_google_web_search_24 {
+        internal static byte[] delete_icon {
             get {
-                object obj = ResourceManager.GetObject("icons8_google_web_search_24", resourceCulture);
+                object obj = ResourceManager.GetObject("delete_icon", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace GestionPersonas.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] icons8_guardar_48 {
+        internal static byte[] Delete_icon_minus {
             get {
-                object obj = ResourceManager.GetObject("icons8_guardar_48", resourceCulture);
+                object obj = ResourceManager.GetObject("Delete_icon_minus", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -93,9 +93,29 @@ namespace GestionPersonas.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] icons8_nuevo_48 {
+        internal static byte[] File_new_icon {
             get {
-                object obj = ResourceManager.GetObject("icons8_nuevo_48", resourceCulture);
+                object obj = ResourceManager.GetObject("File_new_icon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] floppy_icon {
+            get {
+                object obj = ResourceManager.GetObject("floppy_icon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] search_icon {
+            get {
+                object obj = ResourceManager.GetObject("search_icon", resourceCulture);
                 return ((byte[])(obj));
             }
         }
